@@ -29,7 +29,6 @@ Here are some repos that show what I’ve built:
 | **Learning-Management** | A PHP-based learning management system (LMS). |
 | **PortfolioProject** | My portfolio site built with HTML, CSS & Bootstrap. |
 | **PizzaOrderSystem** | System to handle pizza orders — front + backend work. |
-| **Profile Configs** | My GitHub profile setup & configs. |
 
 ---
 
@@ -37,7 +36,7 @@ Here are some repos that show what I’ve built:
 
 - Advanced concepts in **Laravel** (e.g. package development, performance optimization)  
 - Deeper work with **React & Next**, possibly mixing server-side rendering, state management  
-- DevOps basics: Docker, CI/CD pipelines — improving my deployment flow  
+- DevOps basics: AWS, Docker, CI/CD pipelines — improving my deployment flow  
 
 ---
 
