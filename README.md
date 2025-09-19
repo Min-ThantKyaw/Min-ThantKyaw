@@ -15,7 +15,7 @@
 
 | Backend | Frontend | Database | Dev / Tools |
 |---|---|---|---|
-| PHP / Laravel | JavaScript / React / Vue | MySQL | Git / GitHub / Bootstrap |
+| PHP / Laravel | JavaScript / React / Next | MySQL / MongoDB | Git / GitHub / Bootstrap/Tailwind |
 | — | HTML5, CSS3 | — | REST APIs, MVC |
 
 ---
@@ -36,7 +36,7 @@ Here are some repos that show what I’ve built:
 ## 🌱 What I’m Learning
 
 - Advanced concepts in **Laravel** (e.g. package development, performance optimization)  
-- Deeper work with **React & Vue**, possibly mixing server-side rendering, state management  
+- Deeper work with **React & Next**, possibly mixing server-side rendering, state management  
 - DevOps basics: Docker, CI/CD pipelines — improving my deployment flow  
 
 ---
@@ -45,7 +45,7 @@ Here are some repos that show what I’ve built:
 
 - Facebook: [minthant.kyaw.311493](https://www.facebook.com/minthant.kyaw.311493)  
 - GitHub: [github.com/Min-ThantKyaw](https://github.com/Min-ThantKyaw)  
-- Email: *[your email here]* (if you want to share)  
+- Email: *[minthant1590@gmail.com]*
 
 ---
 
@@ -54,5 +54,3 @@ Here are some repos that show what I’ve built:
 I believe code should be readable even after months (or years) — future-me or someone else should understand what I wrote 😄  
 
 ---
-
-*Thanks for stopping by!*  
