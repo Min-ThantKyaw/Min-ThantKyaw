@@ -15,8 +15,8 @@
 
 | Backend | Frontend | Database | Dev / Tools |
 |---|---|---|---|
-| PHP / Laravel | JavaScript / React / Next | MySQL / MongoDB | Git / GitHub / Bitbucket |
-| REST APIs, MVC | HTML5, CSS3, Tailwind | REST APIs, MVC | AWS / Docker |
+| PHP / Laravel / Node.js | JavaScript / React / Next | MySQL / MongoDB | Git / GitHub / Bitbucket |
+| REST APIs, MVC | HTML5, CSS3, Tailwind |  | AWS / Docker |
 
 ---
 
