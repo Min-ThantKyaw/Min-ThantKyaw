@@ -5,7 +5,7 @@
 
 ## 🔭 About Me
 
-- I build web applications with **PHP (Laravel)**, **React**, **Vue.js**, **Bootstrap**, and modern HTML/CSS.  
+- I build web applications with **PHP (Laravel)**, **React**, **Next.js**, and modern HTML/CSS.  
 - Always learning new tools and best practices — clean code, good structure, and performance matter.  
 - I share what I learn: tutorials, small projects, code snippets.
 
@@ -15,8 +15,8 @@
 
 | Backend | Frontend | Database | Dev / Tools |
 |---|---|---|---|
-| PHP / Laravel | JavaScript / React / Next | MySQL / MongoDB | Git / GitHub / Bootstrap/Tailwind |
-| — | HTML5, CSS3 | — | REST APIs, MVC |
+| PHP / Laravel | JavaScript / React / Next | MySQL / MongoDB | Git / GitHub / Bitbucket |
+| REST APIs, MVC | HTML5, CSS3, Tailwind | REST APIs, MVC | AWS / Docker |
 
 ---
 
