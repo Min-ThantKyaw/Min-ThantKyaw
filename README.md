@@ -3,7 +3,7 @@
 
 ---
 
-## 🔭 About Me
+## About Me
 
 - I build web applications with **PHP (Laravel)**, **React**, **Next.js**, and modern HTML/CSS.  
 - Always learning new tools and best practices — clean code, good structure, and performance matter.  
@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Backend | Frontend | Database | Dev / Tools |
 |---|---|---|---|
@@ -20,7 +20,7 @@
 
 ---
 
-## 📂 Featured Repositories
+## Featured Repositories
 
 Here are some repos that show what I’ve built:
 
@@ -32,7 +32,7 @@ Here are some repos that show what I’ve built:
 
 ---
 
-## 🌱 What I’m Learning
+## What I’m Learning
 
 - Advanced concepts in **Laravel** (e.g. package development, performance optimization)  
 - Deeper work with **React & Next**, possibly mixing server-side rendering, state management  
@@ -40,7 +40,7 @@ Here are some repos that show what I’ve built:
 
 ---
 
-## 📫 How to Find Me
+## How to Find Me
 
 - Facebook: [minthant.kyaw.311493](https://www.facebook.com/minthant.kyaw.311493)  
 - GitHub: [github.com/Min-ThantKyaw](https://github.com/Min-ThantKyaw)  
@@ -48,7 +48,7 @@ Here are some repos that show what I’ve built:
 
 ---
 
-## ⚡ Fun Fact
+## Fun Fact
 
 I believe code should be readable even after months (or years) — future-me or someone else should understand what I wrote 😄  
 
