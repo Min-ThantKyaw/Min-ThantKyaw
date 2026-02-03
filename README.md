@@ -44,7 +44,7 @@ Here are some repos that show what I’ve built:
 
 - Facebook: [minthant.kyaw.311493](https://www.facebook.com/minthant.kyaw.311493)  
 - GitHub: [github.com/Min-ThantKyaw](https://github.com/Min-ThantKyaw)  
-- Email: *[minthant1590@gmail.com]*
+- Email: [minthant1590@gmail.com]
 
 ---
 
