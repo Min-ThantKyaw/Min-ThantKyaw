@@ -1,55 +1,67 @@
-# Hi there, I'm **Min Thant Kyaw** 👋  
-*A passionate Web Developer from Myanmar*
+# Hi there, I'm **Min Thant Kyaw**
+
+*A passionate Web Developer from Myanmar, transitioning to modern full-stack development*
 
 ---
 
 ## About Me
 
-- I build web applications with **PHP (Laravel)**, **React**, **Next.js**, and modern HTML/CSS.  
-- Always learning new tools and best practices — clean code, good structure, and performance matter.  
-- I share what I learn: tutorials, small projects, code snippets.
+- I love building clean, performant, and user-friendly web applications.
+- Currently deepening my skills in **TypeScript**, **Next.js**, and modern JavaScript ecosystem.
+- Strong believer in writing readable, maintainable code and continuous learning.
+- Actively embracing **AI tools** to accelerate development and improve code quality.
 
 ---
 
 ## Tools & Technologies
 
-| Backend | Frontend | Database | Dev / Tools |
-|---|---|---|---|
-| PHP / Laravel / Node.js | JavaScript / React / Next | MySQL / MongoDB | Git / GitHub / Bitbucket |
-| REST APIs, MVC | HTML5, CSS3, Tailwind |  | AWS / Docker |
+| Category       | Technologies |
+|----------------|--------------|
+| **Frontend**   | JavaScript, TypeScript, React, Next.js 15, Tailwind CSS, Shadcn/UI |
+| **Backend**    | Next.js (App Router & Server Actions), Node.js |
+| **Database**   | PostgreSQL, Supabase, Prisma ORM |
+| **AI Tools**   | Cursor AI, Claude, GitHub Copilot, v0.dev |
+| **Others**     | Git, GitHub, Vercel, REST APIs, Jest (Learning) |
 
 ---
 
-## Featured Repositories
+## Featured Projects
 
-Here are some repos that show what I’ve built:
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **Modern Portfolio** | Clean, fast and responsive personal portfolio | Next.js 15, TypeScript, Tailwind, Shadcn | [View](link) |
+| **Full-Stack Blog** | Blog with authentication, CMS-like features | Next.js, Supabase, Prisma, Clerk Auth | [View](link) |
+| **Expense Tracker** | Personal finance app with charts and filtering | TypeScript, Next.js, Chart.js | [View](link) |
+| **Pizza Order System** | Order management system (Previous Project) | PHP Laravel + React | [View](link) |
 
-| Project | What it is / Technologies Used |
-|---|---|
-| **Learning-Management** | A PHP-based learning management system (LMS). |
-| **PortfolioProject** | My portfolio site built with HTML, CSS & Bootstrap. |
-| **PizzaOrderSystem** | System to handle pizza orders — front + backend work. |
-
----
-
-## What I’m Learning
-
-- Advanced concepts in **Laravel** (e.g. package development, performance optimization)  
-- Deeper work with **React & Next**, possibly mixing server-side rendering, state management  
-- DevOps basics: AWS, Docker, CI/CD pipelines — improving my deployment flow  
+*(More projects coming soon as I build with Next.js & TypeScript)*
 
 ---
 
-## How to Find Me
+## What I'm Currently Learning
 
-- Facebook: [minthant.kyaw.311493](https://www.facebook.com/minthant.kyaw.311493)  
-- GitHub: [github.com/Min-ThantKyaw](https://github.com/Min-ThantKyaw)  
+- **Deep TypeScript** & Advanced Next.js patterns (Server Components, Server Actions, Streaming)
+- Modern development workflow with **Cursor AI**
+- Testing (Jest + React Testing Library)
+- Clean Architecture & Problem Solving skills
+- Performance optimization and best practices
+
+**Current Focus**: Becoming a confident Mid-level Full-Stack Developer in the modern JavaScript ecosystem.
+
+---
+
+## Contact me
+
+- GitHub: [github.com/Min-ThantKyaw](https://github.com/Min-ThantKyaw)
+- Facebook: [minthant.kyaw.311493](https://www.facebook.com/minthant.kyaw.311493)
 - Email: minthant1590@gmail.com
 
 ---
 
 ## Fun Fact
 
-I believe code should be readable even after months (or years) — future-me or someone else should understand what I wrote 😄  
+I believe great code isn't just about making it work — it's about making it **understandable, maintainable, and enjoyable** for anyone who reads it in the future 😄
 
 ---
+
+*Always learning, always building.*
