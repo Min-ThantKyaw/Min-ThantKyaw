@@ -1,15 +1,12 @@
 # Hi there, I'm **Min Thant Kyaw**
 
-*A passionate Web Developer from Myanmar, transitioning to modern full-stack development*
+*A passionate Web Developer from Myanmar, transitioning to modern development.*
 
 ---
 
 ## About Me
 
-- I love building clean, performant, and user-friendly web applications.
-- Currently deepening my skills in **TypeScript**, **Next.js**, and modern JavaScript ecosystem.
-- Strong believer in writing readable, maintainable code and continuous learning.
-- Actively embracing **AI tools** to accelerate development and improve code quality.
+I have 2 years of experience maintaining and improving production web applications using PHP, WordPress, and AWS. Through this experience, I gained knowledge of backend systems, databases, APIs, debugging, and deployment. Recently, I have been focusing on JavaScript and Node.js backend development and building new projects to strengthen my backend engineering skills.
 
 ---
 
