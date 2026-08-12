@@ -6,7 +6,7 @@
 
 ## About Me
 
-I have 2 years of experience maintaining and improving production web applications using PHP, WordPress, and AWS. Through this experience, I gained knowledge of backend systems, databases, APIs, debugging, and deployment. Recently, I have been focusing on JavaScript and Node.js backend development and building new projects to strengthen my backend engineering skills.
+I have over 2 years of experience maintaining and improving production web applications using PHP, WordPress, and AWS. Through this experience, I gained knowledge of backend systems, databases, APIs, debugging, and deployment. Recently, I have been focusing on JavaScript and Node.js backend development and building new projects to strengthen my backend engineering skills.
 
 ---
 
@@ -14,10 +14,10 @@ I have 2 years of experience maintaining and improving production web applicatio
 
 | Category       | Technologies |
 |----------------|--------------|
-| **Frontend**   | JavaScript, TypeScript, React, Next.js 15, Tailwind CSS, Shadcn/UI |
-| **Backend**    | Next.js (App Router & Server Actions), Node.js |
-| **Database**   | PostgreSQL, Supabase, Prisma ORM |
-| **AI Tools**   | Cursor AI, Claude, GitHub Copilot, v0.dev |
+| **Frontend**   | JavaScript, TypeScript, React, Tailwind CSS,    |
+| **Backend**    | Node.js, ExpressJs, PHP, Laravel                |
+| **Database**   | MYSQL, PostgreSQL, Supabase, Prisma ORM         |
+| **AI Tools**   | Cursor, Reasonix                                |
 | **Others**     | Git, GitHub, Vercel, REST APIs, Jest (Learning) |
 
 ---
@@ -52,12 +52,6 @@ I have 2 years of experience maintaining and improving production web applicatio
 - GitHub: [github.com/Min-ThantKyaw](https://github.com/Min-ThantKyaw)
 - Facebook: [minthant.kyaw.311493](https://www.facebook.com/minthant.kyaw.311493)
 - Email: minthant1590@gmail.com
-
----
-
-## Fun Fact
-
-I believe great code isn't just about making it work — it's about making it **understandable, maintainable, and enjoyable** for anyone who reads it in the future 😄
 
 ---
 
